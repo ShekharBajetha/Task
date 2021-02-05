@@ -1,4 +1,4 @@
-Paynet Wallet System
+Wallet System
 
 Problem statement:
 
